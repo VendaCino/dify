@@ -193,3 +193,6 @@ api/.vscode
 
 .idea/
 .vscode
+
+llm/llama_cpp
+llm/model
